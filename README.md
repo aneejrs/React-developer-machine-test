@@ -64,14 +64,23 @@ Enter any valid email address and a password containing at least six characters.
 
 src/
 ├── components/
+
 │   └── Navbar.jsx
+
 ├── pages/
+
 │   ├── Login.jsx
+
 │   ├── Posts.jsx
+
 │   └── PostDetail.jsx
+
 ├── App.jsx
+
 ├── main.jsx
+
 └── index.css
+
 
 
 ## Important Note
