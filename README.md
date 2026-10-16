@@ -4,7 +4,7 @@ A responsive React web application built as part of a React Developer Machine Te
 
 ## Deployment 
 - Vercel
-  # 🔗Link : https://react-developer-machine-test.vercel.app/login
+  # 🔗Link : https://react-developer-machine-test.vercel.app
 
   # ⌨Demo Login
 
