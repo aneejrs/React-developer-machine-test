@@ -94,7 +94,7 @@ This project uses demo-only client-side login. It is not production authenticati
 
 ## ✍️Author
 Aneej R Suku 👨🏻‍💻
-💼Portfolio: https://my-portfolio-deployment-8zmo.vercel.app/
+💼Portfolio: https://aneejrsuku-portfolio-8zmo.vercel.app
 
 📌LinkedIn : https://www.linkedin.com/in/aneej-r-suku-ba6959217/
 
